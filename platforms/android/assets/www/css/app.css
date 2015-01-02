@@ -1,0 +1,406 @@
+@font-face {
+    font-family:"Cutie Patootie";
+    src: url("../fonts/Cutie_Patootie.ttf")
+}
+
+html,body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	overflow: hidden;
+}
+
+.app-color {
+	color: #009590;
+}
+
+#header{
+	display: none;
+	height: 65px;
+	width: 100%;
+	background: #009590;
+}
+
+#footer {
+	display: none;
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	bottom: 20px;
+	color: white;
+	font-size: 2em;
+	font-family: "Cutie Patootie";
+}
+
+#content {
+	overflow-y: scroll;
+	position: relative;
+	height: 100%;
+	background: #009590;
+}
+
+#title {
+	padding-top: 30px;
+	text-align: center;
+	color: white;
+	font-size: 2em;
+	font-family: "Cutie Patootie";
+}
+
+.title-section {
+	width: 80%;
+	margin: auto;
+	border-bottom: 3px solid white;
+}
+
+.menuItem {
+	width: 25%;
+	margin: 15px auto;
+	text-align: center;
+	background: white;
+	border-radius: 20px;
+}
+
+.menuItem i {
+	color: #009590;
+}
+
+.menuItem p {
+	margin: 5px;
+	font-family: "Cutie Patootie";
+	font-size: 1.3em;
+	color: #009590;
+}
+
+
+#doctorsList {
+	height: 70%;
+	margin-top: 10px;
+	overflow-y: scroll;
+}
+
+#doctorsList ul {
+	list-style: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.doctorItem {
+	width: 80%;
+	margin: 10px auto;
+	background-color: white;
+	border-radius: 20px;
+	font-family: "Lucida Sans Unicode";
+	font-size: 1.2em;
+}
+
+.doctorItem p {
+	margin: 0;
+	padding: 0;
+	line-height: 65px;
+}
+
+.DIhead {
+	height: 65px;
+	width: 100%;
+	display: inline-flex;	
+	border-bottom: 3px solid #009590;
+}
+
+.DIhead i {
+	padding-right: 15px;
+}
+
+.DIhead p:first-child {
+	width: 60%;
+	text-align: center;
+}
+
+.DIfoot {
+	height: 65px;
+	width: 100%;
+	display: inline-flex;
+}
+
+.DIfoot p:first-child {
+	width: 100%;
+	text-align: center;
+}
+
+@media all and (min-height: 100px) {
+	#header{
+		height: 50px;
+	}
+
+	#title {
+		padding-top: 10px;
+		font-size: 1.2em;
+	}
+
+	.menuItem {
+		margin: 4px auto;
+	}
+
+	.menuItem p {
+		margin: 2px;
+		font-size: 0.8em;
+	}
+
+	.doctorItem {
+		font-size: 0.7em;
+	}
+
+	.doctorItem p {
+		line-height: 32px;
+	}
+
+	.DIhead {
+		height: 32px;
+	}
+
+	.DIhead i {
+		line-height: 32px;
+	}
+
+	.DIfoot {
+		height: 32px;
+	}
+}
+
+@media all and (min-height: 200px) {
+	#header{
+		height: 60px;
+	}
+
+	#footer {
+		display: none;
+		bottom: 2px;
+		font-size: 0.6em;
+	}
+
+	#title {
+		padding-top: 15px;
+		font-size: 1.5em;
+	}
+
+	.menuItem {
+		margin: 10px auto;
+	}
+
+	.menuItem p {
+		margin: 3px;
+		font-size: 1.1em;
+	}
+
+	.doctorItem {
+		font-size: 0.8em;
+	}
+
+	.doctorItem p {
+		line-height: 40px;
+	}
+
+	.DIhead {
+		height: 40px;
+	}
+
+	.DIhead i {
+		line-height: 40px;
+	}
+
+	.DIfoot {
+		height: 40px;
+	}
+}
+
+
+@media all and (min-height: 250px) {
+	#footer {
+		display: inherit;
+	}
+}
+
+@media all and (min-height: 300px) {
+	#header{
+		height: 65px;
+	}
+
+	#footer {
+		display: none;
+		bottom: 5px;
+		font-size: 0.8em;
+	}
+
+	#title {
+		padding-top: 30px;
+		font-size: 2em;
+	}
+
+	.menuItem {
+		margin: 15px auto;
+	}
+
+	.menuItem p {
+		margin: 5px;
+		font-size: 1.3em;
+	}
+
+	.doctorItem {
+		font-size: 0.9em;
+	}
+
+	.doctorItem p {
+		line-height: 40px;
+	}
+
+	.DIhead {
+		height: 40px;
+	}
+
+	.DIhead i {
+		line-height: 40px;
+	}
+
+	.DIfoot {
+		height: 40px;
+	}
+}
+
+@media all and (min-height: 350px) {
+	#footer {
+		display: inherit;
+	}
+}
+
+@media all and (min-height: 400px) {
+	#header{
+		height: 70px;
+	}
+
+	#footer {
+		display: none;
+		bottom: 10px;
+		font-size: 1.6em;
+	}
+
+	#title {
+		padding-top: 40px;
+		font-size: 2.4em;
+	}
+
+	.menuItem {
+		margin: 20px auto;
+	}
+
+	.menuItem p {
+		margin: 6px;
+		font-size: 1.7em;
+	}
+
+	.doctorItem {
+		font-size: 1em;
+	}
+
+	.doctorItem p {
+		line-height: 45px;
+	}
+
+	.DIhead {
+		height: 45px;
+	}
+
+	.DIhead i {
+		line-height: 45px;
+	}
+
+	.DIfoot {
+		height: 45px;
+	}
+}
+
+@media all and (min-height: 450px) {
+	#footer {
+		display: inherit;
+	}
+}
+
+@media all and (min-height: 500px) {
+	#header{
+		height: 75px;
+	}
+
+	#footer {
+		display: none;
+		bottom: 20px;
+		font-size: 1.8em;
+	}
+
+	#title {
+		padding-top: 20px;
+		font-size: 2.7em;
+	}
+
+	.menuItem {
+		width: 30%;
+		margin: 25px auto;
+	}
+
+	.menuItem p {
+		margin: 7px;
+		font-size: 2em;
+	}
+
+	.doctorItem {
+		font-size: 1.2em;
+	}
+
+	.doctorItem p {
+		line-height: 65px;
+	}
+
+	.DIhead {
+		height: 65px;
+	}
+
+	.DIhead i {
+		line-height: 65px;
+	}
+
+	.DIfoot {
+		height: 65px;
+	}
+}
+
+@media all and (min-height: 550px) {
+	#footer {
+		display: inherit;
+	}
+}
+
+@media all and (max-width: 650px) {
+	.menuItem {
+		width: 40%;
+	}
+
+	.doctorItem {
+		font-size: 0.9em;
+	}
+}
+
+
+@media all and (max-width: 450px) {
+	.menuItem {
+		width: 55%;
+	}
+
+	.doctorItem {
+		font-size: 0.7em;
+	}
+}
+
+@media all and (max-width: 350px) {
+	.doctorItem {
+		font-size: 0.6em;
+	}
+}

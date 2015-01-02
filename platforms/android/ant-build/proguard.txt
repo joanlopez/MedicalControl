@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class cat.joanlopez.medicalcontrol.CordovaApp { <init>(...); }
+
