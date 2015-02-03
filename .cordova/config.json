@@ -1,1 +1,13 @@
-{"lib":{"www":{"id":"com.phonegap.hello-world","version":"master","uri":"https://github.com/phonegap/phonegap-app-hello-world/archive/master.tar.gz","link":false}},"phonegap":{"id":1248402}}
+{
+    "lib": {
+        "www": {
+            "id": "com.phonegap.hello-world",
+            "version": "master",
+            "uri": "https://github.com/phonegap/phonegap-app-hello-world/archive/master.tar.gz",
+            "link": false
+        }
+    },
+    "phonegap": {
+        "id": 1248402
+    }
+}
