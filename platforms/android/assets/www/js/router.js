@@ -2,7 +2,8 @@ var Router = Backbone.Router.extend({
 	routes: {
 		'':'init',
 		'home':'home',
-		'guide':'guide'
+		'guide':'guide',
+        'reminders':'reminders'
 	},
 	init: function() {
 		console.log("Router.init");
@@ -17,5 +18,10 @@ var Router = Backbone.Router.extend({
 		console.log("Router.guide");
 		var guideView = new GuideView();
         app.showBodyView(guideView);
-	}
+	},
+    reminders: function() {
+        console.log("Router.reminders");
+        var remindersView = new RemindersView();
+        app.showBodyView(remindersView);
+    }
 });

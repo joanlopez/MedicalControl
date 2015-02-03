@@ -16,9 +16,6 @@ var GuideView = Backbone.View.extend({
     goToAddress: function(ev) {
         console.log("GuideView.goToAddress");
         var address = $(ev.currentTarget).text();
-        var newWindow = window.open("http://maps.google.com/?q=" + address, "_system");
-        newWindow.addEventListener("exit", function () {
-            this.close();
-        });
+        window.open("http://maps.google.com/?q=" + address, "_system");
     }
 });

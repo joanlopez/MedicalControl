@@ -1,9 +1,20 @@
-C:\Users\super_000\Development\phonegap\MedicalControl\platforms\android\ant-build\classes.dex : \
-C:\Users\super_000\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\BuildConfig.class \
-C:\Users\super_000\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\CordovaApp.class \
-C:\Users\super_000\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R$attr.class \
-C:\Users\super_000\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R$drawable.class \
-C:\Users\super_000\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R$string.class \
-C:\Users\super_000\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R$xml.class \
-C:\Users\super_000\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R.class \
-C:\Users\super_000\Development\phonegap\MedicalControl\platforms\android\ant-build\dexedLibs\classes-dbe174010eb9e78497290290d7ab163b.jar \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes.dex : \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\BuildConfig.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\CordovaApp.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R$attr.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R$drawable.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R$string.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R$xml.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\cat\joanlopez\medicalcontrol\R.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\LocalNotification$1.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\LocalNotification$2.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\LocalNotification$3.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\LocalNotification$4.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\LocalNotification$5.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\LocalNotification.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\Options.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\Receiver.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\ReceiverActivity.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\Restore.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\dexedLibs\classes-a8614edc1f99bf26cf626119402b45cc.jar \
