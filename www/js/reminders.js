@@ -28,6 +28,7 @@ var RemindersView = Backbone.View.extend({
         var date = new Date(year, month, day, hours, minutes, seconds, milliseconds);
         var title = "Nuevo recordatorio";
         var message = "Estamos probando este plugin";
+        var repeat = "minutely";
 
         window.plugin.notification.local.add({
             date:date,
@@ -35,6 +36,7 @@ var RemindersView = Backbone.View.extend({
             title:title
         });
 
+        window.plugins.toast.showLongBottom('Nuevo recordatorio añadido');
         console.log("LocalNotification added:");
         console.log(date);
     }

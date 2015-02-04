@@ -16,5 +16,7 @@ D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-bui
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\Receiver.class \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\ReceiverActivity.class \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\de\appplant\cordova\plugin\localnotification\Restore.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\nl\xservices\plugins\Toast$1.class \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\nl\xservices\plugins\Toast.class \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\ant-build\dexedLibs\classes-a8614edc1f99bf26cf626119402b45cc.jar \

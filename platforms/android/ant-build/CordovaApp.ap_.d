@@ -61,9 +61,14 @@ D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\js\underscore-min.js \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\js\utils.js \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\de.appplant.cordova.plugin.local-notification \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\nl.x-services.plugins.toast \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\org.apache.cordova.device \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\de.appplant.cordova.plugin.local-notification\www \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\de.appplant.cordova.plugin.local-notification\www\local-notification.js \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\test \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\www \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\test\tests.js \
+D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\nl.x-services.plugins.toast\www\Toast.js \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
 D:\USUARIS\jlopezd\Development\phonegap\MedicalControl\platforms\android\assets\www\res\icon \
